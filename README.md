@@ -4,7 +4,7 @@
 
 Habito a interseção entre TI e a Psicologia.
 Sou Bacharel em Analise de Sistemas e Aluno de Psicologia (Formatura em 2020)
-Sou Salesforce Admin/Developer e Full Stack Developer.
+Sou Salesforce Admin/Developer.
 
 
  <br/> Buscando colaborar com projetos utilizando Angular/React
