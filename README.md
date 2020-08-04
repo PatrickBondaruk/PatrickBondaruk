@@ -1,16 +1,15 @@
-### Hi there 👋
+# Patrick Bondaruk
 
-<!--
-**PatrickBondaruk/PatrickBondaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá!
 
-Here are some ideas to get you started:
+Habito a interseção entre TI e a Psicologia.
+Sou Bacharel em Analise de Sistemas e Aluno de Psicologia (Formatura em 2020)
+Sou Salesforce Admin/Developer e Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <br/> Buscando colaborar com projetos utilizando Angular/React
+ <br/> Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> Experiencia com Angular + Firebase | Python + Kivy | Unity3D + C#
+ <br/> Estou aprendendo React | Node.JS
+ 
+ 
