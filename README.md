@@ -4,7 +4,7 @@
 
 
  <br/> Estou na interseção entre TI e a Psicologia.
- <br/> Sou Bacharel em Analise de Sistemas e Aluno de Psicologia (Formatura em 2020)
+ <br/> Sou Bacharel em Analise de Sistemas e Psicólogo
  <br/> Sou Salesforce Admin/Developer.
 
 
